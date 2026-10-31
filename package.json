@@ -1,0 +1,12 @@
+{
+  "name": "smooth-scroll-animation",
+  "version": "1.0.0",
+  "description": "Ultra smooth image sequence scroll animation",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "motion": "^14.6.0"
+  }
+}
